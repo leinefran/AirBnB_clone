@@ -4,6 +4,8 @@ footer {
     bottom: 0;
     height: 60px;
     width: 100%;
-    text-align: center;
     line-height: 60px;
+}
+footer p{
+    text-align: center;
 }
