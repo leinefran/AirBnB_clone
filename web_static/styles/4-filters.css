@@ -12,12 +12,13 @@ button{
     Background-color: #FF5A5F;
     text-color: #FFFFFF;
     height: 48px;
+    line-height: 48px;
     width: 20%;
     border: none;
     border-radius: 4px;
     margin-right: 30px;
-    position: relative;
     float: right;
+    vertical-align: middle;
 }
 
 button:hover{
