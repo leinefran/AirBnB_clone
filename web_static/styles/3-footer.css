@@ -8,5 +8,6 @@ footer {
     border-top: solid 1px #CCCCCC;
 }
 footer p{
+    padding: 8px;
     text-align: center;
 }
