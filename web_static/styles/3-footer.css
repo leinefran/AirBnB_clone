@@ -6,8 +6,5 @@ footer {
     width: 100%;
     line-height: 60px;
     border-top: solid 1px #CCCCCC;
-}
-footer p{
     text-align: center;
-    vertical-align: middle;
 }
