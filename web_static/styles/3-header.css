@@ -1,5 +1,5 @@
 header {
-    background-color: white url(../images/logo.png) left 50% no-repeat;
+    background: white url(../images/logo.png) left top no-repeat;
     height: 70px;
     width: 100%;
     border-bottom: solid 1px #CCCCCC;
