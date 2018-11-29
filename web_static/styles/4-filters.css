@@ -4,21 +4,21 @@
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    position: relative;
+    margin: auto;
 }
 
 button{
     font-size: 18px;
     Background-color: #FF5A5F;
-    text-color: #FFFFFF;
+    color: #FFFFFF;
     height: 48px;
     line-height: 48px;
     width: 20%;
     border: none;
     border-radius: 4px;
     margin-right: 30px;
+    margin-top: 12px;
     float: right;
-    justify-content: center;
 }
 
 button:hover{
