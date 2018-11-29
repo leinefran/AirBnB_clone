@@ -17,7 +17,6 @@ button{
     border: none;
     border-radius: 4px;
     margin-right: 30px;
-    vertical-align: middle;
     position: relative;
     float: right;
 }
