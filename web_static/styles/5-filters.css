@@ -1,12 +1,11 @@
 .filters{
-    color: white;
+    background-color: white;
     height: 70px;
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     margin: auto;
     position: relative;
-    display: inline-block;
 }
 
 div.locations, div.amenities{
