@@ -11,19 +11,27 @@
 .locations, .amenities{
     height: 100%;
     width: 25%;
+    display: inline-block;
 }
 
 .locations{
-    border-right: #DDDDDD 1px;
+    border-right: solid #DDDDDD 1px;
 }
 
 .locations > h3, .amenities > h3{
     font-weight: 600;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    margin: 0;
 }
 
 .locations > h4, .amenities > h4{
     font-weight: 400;
     font-size: 14px;
+    padding-left: 30px;
+    margin: 0;
 }
 
 button{
