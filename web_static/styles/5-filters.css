@@ -6,6 +6,7 @@
     border-radius: 4px;
     margin: auto;
     position: relative;
+    display: inline-block;
 }
 
 div.locations, div.amenities{
