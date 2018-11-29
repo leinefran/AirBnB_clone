@@ -20,7 +20,6 @@ button{
     margin-right: 30px;
     margin-top: 12px;
     position: absolute;
-    float: right;
 }
 
 button:hover{
