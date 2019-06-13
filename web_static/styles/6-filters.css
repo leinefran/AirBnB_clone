@@ -8,14 +8,18 @@
     position: relative;
 }
 
+.amenities {
+    position: absolute;
+}
+
+.locations {
+    border-right: solid 1px #DDDDDD;
+}
+
 .locations, .amenities {
     height: 100%;
     width: 25%;
     display: inline-block;
-}
-
-.locations {
-    border-right: solid #DDDDDD 1px;
 }
 
 h2 {
@@ -74,8 +78,7 @@ button:hover {
 .locations:hover ul, .amenities:hover ul {
     visibility: visible;
 }
-.amenities {
-    position: absolute;
+
 }
 
 li {
